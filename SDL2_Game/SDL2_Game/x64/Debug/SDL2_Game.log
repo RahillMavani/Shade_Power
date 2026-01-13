@@ -1,0 +1,15 @@
+﻿  Collision.cpp
+  GameLoop.cpp
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(94,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(308,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(309,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(340,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(344,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(350,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(353,20): warning C4305: '=': truncation from 'double' to 'float'
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(407,100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(408,100): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\SDL2_Game\source folder\GameLoop.cpp(665,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  UILabel.cpp
+  Generating Code...
+  SDL2_Game.vcxproj -> D:\C++ GAME\developing-a-2d-game-using-c-RahillMavani\SDL2_Game\x64\Debug\SDL2_Game.exe
