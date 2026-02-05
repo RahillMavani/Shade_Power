@@ -1,9 +1,5 @@
 # SHADE POWER
 
-**Student Name:** Rahil Mavani
-**Student ID:** 
-**Lab Machine Tested On:** MP 135 MIDDLE ROW 1ST PC
-
 **Youtube Video Link** https://www.youtube.com/watch?v=2GYfDKOkVBg
 
 ## 🎮 Game Overview
